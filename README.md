@@ -79,14 +79,17 @@ The Power BI dashboard provides interactive visual analysis across several trade
 * Total trade value
 * Tariff contributions by country
 * Category-level tariff distribution
-📌 7. Trade Trend Analysis
-Monthly trade value and volume
-Year-over-year comparison
-Growth trends (MoM %)
-📌 8. Scenario-Based Comparative Analysis
-Trade comparison across years (2024–2026)
-Tariff vs trade impact
-Category-wise trade differences
+  
+## 7️⃣ Trade Trend Analysis
+* Monthly trade value and volume trends
+* Year-over-year trade comparison
+* Month-over-month (MoM) trade growth analysis
+
+## 8️⃣ Scenario-Based Comparative Analysis
+* Trade comparison across different financial years
+* Tariff impact vs total trade value
+* Category-wise trade differences across scenarios
+
 ---
 
 # 📊 Key Metrics Analyzed
@@ -99,10 +102,10 @@ Category-wise trade differences
 
 ---
 
-🛠️ Tools & Technologies Used
-Power BI (Dashboard Development)
-Excel / CSV (Data Processing)
-Mockaroo (Synthetic Data Generation)
+# 🛠️ Tools & Technologies Used
+* Power BI (Dashboard Development)
+* Excel / CSV (Data Processing)
+* Mockaroo (Synthetic Data Generation)
 ---
 
 # 📌 Project Highlights
@@ -115,11 +118,11 @@ Mockaroo (Synthetic Data Generation)
 
 ---
 
-🧠 Key Insights
-Majority of trade value is concentrated in Tier 1 categories
-Sea shipments dominate logistics volume
-Tariff impact affects a smaller portion of total trade value
-Trade trends show fluctuations across months and scenarios
+## 🧠 Key Insights
+* Majority of trade value is concentrated in Tier 1 categories
+* Sea shipments dominate logistics volume
+* Tariff impact affects a smaller portion of total trade value
+* Trade trends show fluctuations across months and scenarios
 ---
 
 # 📢 Note
