@@ -7,22 +7,19 @@ This project explores international trade transactions between **India and the U
 The analysis was conducted by carefully exploring the dataset and transforming the data into meaningful business insights using data visualization techniques.
 
 ---
-
-# 📊 Key Focus Areas
-
-The project analyzes trade data from multiple perspectives:
-
-* International trade scenarios (Import / Export)
-* Category and product level trade performance
-* Buyer and supplier trade distribution
-* Logistics efficiency and shipment performance
-* Tariff impact on global trade value
-
+🎯 Objectives
+Analyze international trade patterns between India and the US
+Understand tariff impact on different product categories
+Track supplier and buyer performance
+Evaluate logistics efficiency (transit time & shipment mode)
+Identify top-performing categories and trade trends
 ---
 
 # 📂 Dataset Overview
 
 The dataset represents trade transactions with detailed attributes related to trade operations, pricing, logistics, and tariffs.
+ * FY 2024–2025
+ * FY 2025–2026
 
 ### Key Columns in the Dataset
 
@@ -82,7 +79,14 @@ The Power BI dashboard provides interactive visual analysis across several trade
 * Total trade value
 * Tariff contributions by country
 * Category-level tariff distribution
-
+📌 7. Trade Trend Analysis
+Monthly trade value and volume
+Year-over-year comparison
+Growth trends (MoM %)
+📌 8. Scenario-Based Comparative Analysis
+Trade comparison across years (2024–2026)
+Tariff vs trade impact
+Category-wise trade differences
 ---
 
 # 📊 Key Metrics Analyzed
@@ -95,37 +99,10 @@ The Power BI dashboard provides interactive visual analysis across several trade
 
 ---
 
-# 🛠 Tools Used
-
-* **Power BI** – Data visualization and dashboard creation
-* **Excel / CSV** – Dataset preparation and transformation
-
----
-
-# 📁 Project Structure
-
-```
-india-us-trade-tariff-analysis
-│
-├── data
-│   └── 
-│   └── 
-├── dashboard
-│   └── trade_analysis_dashboard.pbix
-│
-├── screenshots
-│
-└── README.md
-```
-
----
-
-# 🚀 How to Explore the Dashboard
-
-1. Download the `.pbix` file from the repository
-2. Open using **Power BI Desktop**
-3. Use the filters and slicers to explore different trade scenarios
-
+🛠️ Tools & Technologies Used
+Power BI (Dashboard Development)
+Excel / CSV (Data Processing)
+Mockaroo (Synthetic Data Generation)
 ---
 
 # 📌 Project Highlights
@@ -138,9 +115,16 @@ india-us-trade-tariff-analysis
 
 ---
 
+🧠 Key Insights
+Majority of trade value is concentrated in Tier 1 categories
+Sea shipments dominate logistics volume
+Tariff impact affects a smaller portion of total trade value
+Trade trends show fluctuations across months and scenarios
+---
+
 # 📢 Note
 
-The dataset used in this project is a sample dataset created for analytical exploration and visualization purposes.
+TThis project uses synthetic data created for learning and analytical purposes. It does not represent real-world trade figures.
 
 ---
 
